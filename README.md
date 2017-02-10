@@ -1,4 +1,4 @@
-Make GitHub's UI Great again.
+Make GitHub's UI Great again. Installation instructions [here](https://github.com/arjunblj/revert-github-ui/issues/1#issuecomment-279092987).
 
 ![](http://i.imgur.com/Yr6PhlA.png)
 
